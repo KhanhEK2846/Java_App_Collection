@@ -1,1 +1,5 @@
-Guide: [Youtube](https://youtu.be/8ZcEYv2ezWc?si=xBbC4Eqe097E6C4y)
+# Java_App_Collection
+The collection of tiny app made by me 
+
+# Author
+Le Hoang Khanh
